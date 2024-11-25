@@ -1,4 +1,4 @@
-# DOOM style 3d (raycasting) game in Python (based on Wolfenstein 3d)
+# Python FPS using pygame
 
 Control: 'WASD' + mouse
 
